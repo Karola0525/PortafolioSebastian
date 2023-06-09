@@ -1,0 +1,48 @@
+p,h1{
+    color: midnightblue;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.estilo{
+    text-align: center;
+    background-color: rgb(203, 136, 20);
+}
+h2{
+    color: rgb(92, 16, 38);
+    text-align: center;
+}
+.header{
+    background-color: #1D8FB5;
+    display:flex;
+    justify-content:left;
+}
+body{
+    background-color: rgb(104, 227, 238);
+}
+.footer{
+    display: flex;
+    justify-content:flex-end;
+}
+a:hover{
+  
+    opacity: 1 ;
+    color: blueviolet;
+}
+a:link{
+    color: rgb(255, 0, 0);
+}
+p{
+    color: royalblue;
+}
+.item:hover img{
+opacity: 0.1;
+}
+
+h3{
+    color:rgb(83, 9, 71);
+    text-align: center;
+    
+}
